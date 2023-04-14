@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Morroco</string>
+    <string name="login">Login</string>
+    <string name="Signup">Time to Sign in </string>
+    <string name="submit">Submit</string>
+    <string name="title"> TRADITIONAL           MOROCCAN FOOD</string>
+    <string name="email">  Entrer your email</string>
+    <string name="pass">  Enter you password</string>
+
+
+</resources>
